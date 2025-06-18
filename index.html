@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MemeCoin Survivor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="MemeCoin Survivor Logo" class="logo" />
+    <h2>Select Your Coin</h2>
+    <select id="coin-select">
+      <option value="$DOGE">🐶 $DOGE</option>
+      <option value="$PEPE">🐸 $PEPE</option>
+      <option value="$FLOKI">⚔️ $FLOKI</option>
+      <option value="$BONK">🔥 $BONK</option>
+      <option value="$TOSHI">😎 $TOSHI</option>
+      <option value="$SHIBA">🐕 $SHIBA</option>
+    </select>
+    <button onclick="spinWheel()">SPIN</button>
+    <div id="result" class="result-box"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
