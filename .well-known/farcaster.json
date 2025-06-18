@@ -6,13 +6,15 @@
   },
   "frame": {
     "version": "1",
-    "name": "Example Frame",
-    "iconUrl": "https://memecoin-survivor.vercel.app/icon.png",
+    "name": "MemeCoin Survivor",
     "homeUrl": "https://memecoin-survivor.vercel.app",
-    "imageUrl": "https://memecoin-survivor.vercel.app/image.png",
-    "buttonTitle": "Check this out",
+    "iconUrl": "https://memecoin-survivor.vercel.app/logo.png",
     "splashImageUrl": "https://memecoin-survivor.vercel.app/splash.png",
     "splashBackgroundColor": "#eeccff",
-    "webhookUrl": "https://memecoin-survivor.vercel.app/api/webhook"
+    "ogTitle": "MemeCoin Survivor",
+    "ogDescription": "Spin your memecoin daily — will it moon or get rugged?",
+    "ogImageUrl": "https://memecoin-survivor.vercel.app/og.png",
+    "primaryCategory": "games",
+    "tags": ["crypto", "game", "meme", "spin"]
   }
 }
