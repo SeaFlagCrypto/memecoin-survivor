@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE2OTQ4LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MEJmZERDM2MwMTk0YjMzQUJBMzExOTc1MTM3ZTI1QjFENzNmNUYwNyJ9",
+    "payload": "eyJkb21haW4iOiJtZW1lY29pbi1zdXJ2aXZvci52ZXJjZWwuYXBwIn0",
+    "signature": "MHhiNDYxMTJhZjFlNGQ3M2I4NzgxYWM0MmVjNzhhOTM0YzI0MmM4NWY2ZjYxYWE2ZWM1MDhmMTZjYTY1NTlkNDYyNzc4YmE4MDdkMDJkMzA0Y2M4ODRhZDU3NjU5N2M4ZmViMGEzNGNmMGQwMTI5YzJlYWVhMGY0YTI4YzNiZGU1ZjFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://memecoin-survivor.vercel.app/icon.png",
+    "homeUrl": "https://memecoin-survivor.vercel.app",
+    "imageUrl": "https://memecoin-survivor.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://memecoin-survivor.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://memecoin-survivor.vercel.app/api/webhook"
+  }
+}
